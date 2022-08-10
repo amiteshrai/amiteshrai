@@ -28,8 +28,8 @@
 
 <p align="center">
 <a href="https://github.com/amiteshrai">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amiteshrai&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amiteshrai&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amiteshrai&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amiteshrai&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
