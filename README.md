@@ -52,4 +52,4 @@
   <img src="https://komarev.com/ghpvc/?username=amiteshrai&label=Profile%20Views&color=0e75b6&style=flat" alt="amiteshrai" />
 </p>
  
-*Credit: This idea come from [@BretFisher](https://github.com/BretFisher)'s README.*
+*Credit: Inspired By [@BretFisher](https://github.com/BretFisher)'s README.*
