@@ -14,7 +14,7 @@ I build Data, Analytics, and AI platforms that drive revenue and hold up under s
 
 ## About
 
-I'm a polyglot engineer with 10+ years designing and shipping production systems across **retail, fintech, healthtech, and banking**. I architect the systems, run the teams that keep them honest, and write production code - often all three in the same week.
+I'm a polyglot engineer with 10+ years designing and shipping production systems across **retail, fintech, and healthtech**. I architect the systems, run the teams that keep them honest, and write production code - often all three in the same week.
 
 **By day:** leading data & AI engineering across enterprise engagements - pricing intelligence, demand forecasting, and enterprise data platforms.
 
