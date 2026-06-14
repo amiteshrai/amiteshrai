@@ -1,8 +1,8 @@
-# Amitesh Kumar
+# Amitesh Rai
 
-**Analytics Engineering Manager | Solutions Architect | Full-Stack AI Engineer**
+**Solutions Architect | Full Stack AI Engineer**
 
-Building data platforms that drive revenue and trading systems that capture alpha.
+I build Data, Analytics, and AI platforms that drive revenue and hold up under scrutiny.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiteshkumarrai/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3294427/amitesh-rai)
@@ -14,13 +14,13 @@ Building data platforms that drive revenue and trading systems that capture alph
 
 ## About
 
-I'm a polyglot engineer with 10+ years of experience designing and shipping production systems across **retail, fintech, healthtech, and banking**. I lead teams, architect platforms, and write code—often all three in the same week.
+I'm a polyglot engineer with 10+ years designing and shipping production systems across **retail, fintech, healthtech, and banking**. I architect the systems, run the teams that keep them honest, and write production code - often all three in the same week.
 
-**By day:** Analytics & AI Engineering Manager, leading a team, building competitive pricing intelligence, demand forecasting, and enterprise data platforms.
+**By day:** leading data & AI engineering across enterprise engagements - pricing intelligence, demand forecasting, and enterprise data platforms.
 
-**By night:** Co-founder of a fintech trading platform combining quantitative signals with market cycle theory and my trading experience.
+**By night:** building **Kairos** - compose your edge.
 
-My architecture philosophy: scalability, decoupling, security, and compliance aren't afterthoughts—they're the foundation.
+My architecture philosophy: scalability, decoupling, security, and compliance aren't afterthoughts - they're the foundation.
 
 ---
 
@@ -30,9 +30,9 @@ My architecture philosophy: scalability, decoupling, security, and compliance ar
 `Snowflake` `dbt` `Airflow` `Databricks` `Spark` `Kafka` `Medallion Architecture` `Data Quality Frameworks`
 
 ### Machine Learning & AI
-`scikit-learn` `XGBoost` `MLflow` `LLM Engineering` `RAG Systems` `Prompt Engineering`
+`LangGraph` `Claude` `RAG` `MCP` `PyTorch` `LightGBM` `Prophet` `MLflow`
 
-### Full-Stack Development
+### Full Stack Development
 `Python` `TypeScript` `JavaScript` `Go` `React` `Node.js` `FastAPI`
 
 ### Infrastructure & Cloud
@@ -47,11 +47,11 @@ My architecture philosophy: scalability, decoupling, security, and compliance ar
 
 I design systems with these non-negotiables:
 
-- **Scalability** — Handle load without redesign
-- **Decoupling** — Bounded contexts, clear interfaces, no hidden dependencies  
-- **Security** — AuthN/AuthZ as first-class citizens, not bolted on
-- **Compliance** — Audit trails and traceability for regulated environments
-- **Idempotency** — Operations that are safe to retry
+- **Scalability** - Handle load without redesign
+- **Decoupling** - Bounded contexts, clear interfaces, no hidden dependencies
+- **Security** - AuthN/AuthZ as first-class citizens, not bolted on
+- **Compliance** - Audit trails and traceability for regulated environments
+- **Idempotency** - Operations that are safe to retry
 
 ---
 
@@ -66,9 +66,9 @@ I design systems with these non-negotiables:
 
 ## Let's Connect
 
-- 💼 Open to **consulting engagements** in data platform architecture and ML systems
-- 🤝 Always interested in conversations about **trading systems**, **data engineering patterns**, and **AI/ML in production**
-- 📫 Reach me at [amiteshrai@outlook.com](mailto:amiteshrai@outlook.com)
+- Open to **senior roles** and select **consulting** in data, analytics, and AI
+- Always happy to talk **data engineering patterns**, **agentic AI**, and **ML in production**
+- Reach me at [amiteshrai@outlook.com](mailto:amiteshrai@outlook.com)
 
 ---
 
